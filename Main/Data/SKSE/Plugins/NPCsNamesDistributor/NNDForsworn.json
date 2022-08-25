@@ -1,0 +1,30 @@
+{
+    "NND_Given": {
+        "NND_Male": {
+            "NND_Names": [
+                "Adeber","Ainethach","Alaric","Banning","Belchimac","Braig","Cedran","Cosnach","Degaine","Donnel","Dryston","Duach","Eltrys","Enmon","Ennoc","Garvey","Hathrasil","Imedhnain","Madanach","Morven","Nepos","Odvan","Omluag","Perth","Rondach","Tuthul","Tynan","Uraccen","Weylin",
+                "Aeodfaern","Allunen","Anarleghan","Anarmor","Angair","Anginoch","Angof","Anslettar","Ardanir","Arinodh","Arllonal","Arlmar","Arloakh","Arparnagh","Atmaorg","Atoakh","Atpert","Aydolan","Baargus","Baircallas","Barhurn","Barth","Beagan","Bedcallas","Beddan","Berbrikh",
+                "Berinodh","Bevprugen","Bienghar","Blakull","Bodgrannagh","Bodpairn","Boyoagh","Bradan","Branhurt","Brektor","Bretull","Briaogh","Brighortan","Brinarch","Burearn","Caddach","Caddgarn","Cadmor","Caduggan","Calbokh","Calix","Callan","Camkull","Caoiss","Cariggarn",
+                "Carinoch","Caruggan","Caswunagh","Congorn","Conoch","Conol","Corboar","Corintthac","Cullearn","Cullgarn","Donallorta","Dremar","Drembarth","Drisoal","Drisuggan","Duraeg","Durcorach","Eamon","Edawaol","Egvarn","Eionneirg","Elgnolan","Emsold","Eoinpairn","Eoinrof",
+                "Erbogar","Etavarn","Evroch","Faorin","Fertoagh","Fiapert","Fynvagh","Gallnellan","Gherig","Glonn","Glynhortan","Glynpold","Glynroch","Gorbarth","Gorrof","Grivier","Halkir","Hroltar","Ionfir","Ionlorta","Jolnengar","Kaenach","Kegairn","Keltorgan","Kevinne","Kradore",
+                "Kraig","Kyrtos","Labhraidh","Largruff","Leovic","Lesuin","Madearn","Madgorn","Madovan","Mael","Malaok","Malkor","Malug","Marolan","Millengor","Morgeln","Moricar","Nak'tah","Neltorn","Nolovan","Noltoch","Odanach","Olarz","Ordun","Ovcallas","Paldrin","Prydnoch","Pryner",
+                "Rowliefar","Rowoakh","Rukar","Saagan","Senan","Stral","Strastnoc","Tayfaern","Travregholan","Trenol","Trenonnal","Trenvarn","Ulvoch","Unddan","Urfon","Vardan","Variggarn","Varselg","Velian","Verrik","Vilum","Vitrus","Vund","Wuhkusto"
+            ]
+        },
+        "NND_Female": {
+            "NND_Names": [
+                "Alona","Ambre","Ambritt","Anadeth","Anafira","Anssulla","Ansvyn","Aodhait","Aodhelse","Aodhenn","Arana","Avelra","Ayddelsa","Aydsil","Balra","Bani","Bedene","Beirgane","Beirma","Beirolwen","Beirrulla","Belwikh","Bevela","Bjora","Bodfe","Bodfira","Bodgeln","Bothela","Brenelsa",
+                "Burlota","Cairine","Canaer","Cannear","Cantillikh","Celarion","Celennel","Ciana","Cianellgen","Ciannait","Cianreil","Crowstooth","Cuandala","Daighre","Deanbroogha","Deantenna","Delait","Dena","Denfira","Denghola","Desennel","Desevaen","Desola","Desone","Drisbellairn","Drisdeffe",
+                "Drisene","Drusilla","Edola","Eggeln","Elgeryl","Elggane","Elgsoife","Elra","Eola","Eoline","Erith","Esgiana","Eslirn","Eslyn","Esnevere","Esona","Evone","Ferra","Ferrantia","Ferratha","Ferrenna","Ferwylla","Fialyn","Fiertura","Fyna","Fynennel","Gellena","Gellhueil","Gellsoane",
+                "Glyna","Gohlla","Gwenyfe","Gwerina","Gwersel","Gwyndelsa","Gwynlina","Hearnrulla","Hearnstenn","Hereline","Hila","Hiti","Iglytha","Ildene","Ionregha","Jagiska","Janavynn","Kaie","Keama","Kelaer","Kelsel","Kienola","Kiensoife","Kynaer","Kynbellairn","Layren","Lessa","Leven",
+                "Lilou","Linele","Lisrek","Lydi","Maefyn","Maeveelyf","Maeverit","Maevlina","Mairead","Mavlyn","Medbrenna","Medone","Medowena","Medperth","Medya","Mena","Mercedene","Meritha","Mochveda","Morrigh","Nathari","Nelldena","Nellraina","Nelmir","Nevaen","Oiftie","Orla","Ovdella","Ovra",
+                "Ovregha","Prynlinnait","Rhiada","Shilia","Shillin","Shorrin","Sibellec","Sloaghan","Taerma","Tharda","Tisella","Tisfira","Tisnevere","Tuecille","Uaile","Ulvfae","Ulvolwen","Uracaile","Urgala","Verela","Verfae","Vivian","Voada"
+            ]
+        }
+    },
+    "NND_Family": {
+        "NND_Any": {
+            "NND_Names": ["Beast of the Reach","Blackthroat","Blightheart","Bloodcaller","Bullblood","Clan-Slayer","Eagleseer","Frostfang","Gnarltree","Ice-Heart","Levys","Nerva","Rotvine","Six-Ford","Shade-Witch of Mournoth","Skullcarver","Snowpelt","Stoneheart","Stoneshaper","the Abomination","the Bloody","the Boaster","the Cunning","the Graveborn","the Gravesinger","the Hearteater","the Old","the Undying","the Wise","Thorncastle","Thorntongue","Witchclaw","Zurric"]
+        }
+    }
+}
